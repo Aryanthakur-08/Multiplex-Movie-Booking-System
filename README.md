@@ -55,9 +55,9 @@ java -version
 ```
 
 ### Installation & Execution
-1. **Navigate to the source directory**:
+1. **Navigate to the project directory**:
    ```bash
-   cd MovieBookingSystem/src
+   cd MovieBookingSystem
    ```
 2. **Compile the code**:
    ```bash
