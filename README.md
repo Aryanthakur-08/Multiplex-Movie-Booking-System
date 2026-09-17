@@ -88,6 +88,29 @@ You can manually test the system using the following flows:
 
 ---
 
+## 📁 Project Structure
+
+```text
+MovieBookingSystem/
+├── src/
+│   └── MultiplexBookingSystem.java      # Main source code file
+├── Multiplex_Movie_Booking_System_Report_v4.docx  # Detailed project report
+├── statement.md                         # Problem statement and scope
+├── .gitignore                           # Git ignore rules
+└── README.md                            # Project documentation
+```
+
+---
+
+## 🔮 Future Enhancements (v2.0 Scope)
+While the current version is robust and complete for in-memory execution, planned future upgrades include:
+*   **Database Integration**: Migrating data storage from in-memory Collections to a relational database (e.g., MySQL or PostgreSQL) for data persistence.
+*   **Graphical User Interface (GUI)**: Building a desktop interface using JavaFX or a web frontend using Spring Boot.
+*   **Payment Gateway Mock**: Simulating external payment gateway integrations (e.g., Stripe or Razorpay) during checkout.
+*   **Email Notifications**: Sending automated ticket confirmation and cancellation emails to users.
+
+---
+
 ## 📸 Screenshots & Documentation
 Comprehensive, high-resolution screenshots of the terminal interface (Main Menu, Movie Catalogue, Visual Seat Map, Snack Bar, Detailed Invoice, and Admin Analytics) along with UML and Architecture diagrams are available in the included **Project Report (`.docx`)** file.
 
